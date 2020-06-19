@@ -8,5 +8,6 @@ class Book
   end 
 end 
 
+Book.new 
 
 
