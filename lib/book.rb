@@ -8,6 +8,4 @@ class Book
   end 
 end 
 
-Book.new("And Then There Were None")
-book = Book.new
-
+Book.new
