@@ -1,4 +1,6 @@
 class Book
-  def initialized
+  def initialized(title)
+    @tile 
+  end 
 end 
 
